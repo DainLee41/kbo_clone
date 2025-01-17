@@ -22,8 +22,8 @@ export default {
           sub: '#000000'
         },
         OB: {
-          main: '#1A1748',
-          sub: '#EB1D25'
+          main: '#010039',
+          sub: '#ef1c26'
         },
         LT: {
           main: '#041E42',
